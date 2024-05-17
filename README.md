@@ -2,7 +2,7 @@
 
 I am excited to share with you my recent project experience in developing a smart home automation system using cutting-edge technologies. This project demonstrates the potential of IoT and automation in creating a seamless and intuitive experience for homeowners.
 
-System Overview
+# System Overview
 
 The smart home system consists of three zones: bedroom, office, and living room. Each bedroom and office is equipped with a bulb and fan, while the living room features additional sensors for temperature and gas levels. The system enables remote control of lighting, fans, and door operations, as well as real-time monitoring of temperature and gas levels.
 
